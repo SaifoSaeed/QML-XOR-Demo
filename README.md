@@ -30,7 +30,6 @@ python test.py
 * **Quantum Kernel SVM:** Achieves 100% accuracy. The $Z \otimes Z$ interaction dynamically warps the feature space, allowing perfect classification.
 
 ## Visual Outputs
-*(Ensure you upload the generated images to your repository root)*
 
 * `H2H.png`: The side-by-side decision boundary plot.
 * `feature_map.png`: The decomposed quantum circuit diagram.
